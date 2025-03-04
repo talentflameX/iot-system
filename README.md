@@ -1,2 +1,0 @@
-# iot-system
-internship project
